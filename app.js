@@ -16,7 +16,7 @@ function sendEmail(event) {
         Swal.fire({
             icon: 'error',
             title: 'Oops...',
-            text: 'No ha sido posible enviar el mensaje!',
+            text: 'No ha sido posible enviar el mensaje!'
         })
     } )
 }
